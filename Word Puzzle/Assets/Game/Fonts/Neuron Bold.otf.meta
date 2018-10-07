@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 318d5921cc050124ca29af4a8f5b352b
+timeCreated: 1503310399
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neuron
+  fontNames:
+  - Neuron
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a2ffd46a8fb3054e9bfa762b466d3be, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
